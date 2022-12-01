@@ -1,0 +1,11 @@
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\bin\Debug\Biyolojiodev2.exe.config
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\bin\Debug\Biyolojiodev2.exe
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\bin\Debug\Biyolojiodev2.pdb
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\obj\Debug\Biyolojiodev2.csprojAssemblyReference.cache
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\obj\Debug\Biyolojiodev2.Form1.resources
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\obj\Debug\Biyolojiodev2.Form2.resources
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\obj\Debug\Biyolojiodev2.Properties.Resources.resources
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\obj\Debug\Biyolojiodev2.csproj.GenerateResource.cache
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\obj\Debug\Biyolojiodev2.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\obj\Debug\Biyolojiodev2.exe
+C:\Users\berat\source\repos\OwnProjects\Biyolojiodev2\obj\Debug\Biyolojiodev2.pdb
